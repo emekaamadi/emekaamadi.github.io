@@ -4,7 +4,6 @@
 
 
 layout: home
-title: Welcome to My Data Science Portfolio
 ---
 ## About Me
 I’m a data scientist passionate about products and consumers and using my analytical skills to help better serve them.

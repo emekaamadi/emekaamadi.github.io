@@ -4,7 +4,6 @@
 
 
 layout: home
-title: About Me
 ---
 [View My Resume](assets/Emeka%20Amadi-Resume-EA-3-6-SQL.pdf)
 

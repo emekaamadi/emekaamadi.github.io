@@ -4,8 +4,10 @@
 
 
 layout: home
+title: About Me
 ---
-## About Me
+[View My Resume](assets/Emeka%20Amadi-Resume-EA-3-6-SQL.pdf)
+
 I’m a data scientist passionate about products and consumers and using my analytical skills to help better serve them.
 
 ## Projects

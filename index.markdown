@@ -5,6 +5,7 @@
 
 layout: home
 ---
+##About Me
 I’m a data scientist passionate about products and consumers and using my analytical skills to help better serve them.
 
 ## Projects

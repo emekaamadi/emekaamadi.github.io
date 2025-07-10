@@ -740,7 +740,7 @@ template {
     transition: all .7s;
     width: 20px;
     font-size: 20px;
-    margin: 5px
+    margin: 0 20px
 }
 
 .header-icons .icon:active,
@@ -1653,18 +1653,33 @@ a img {
 }
 
 .tech {
-    margin: 10px
+  margin: 20px auto;
+  text-align: center;
+  max-width: 1200px;
 }
 
-.user {
-    text-align: center;
-    font-size: 60px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin-top: -3%;
-    justify-content: space-between;
+.tech-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 20px;
 }
+
+.tech-icons img {
+  width: 75px;
+  height: 75px;
+}
+
+
+.user {
+    max-width: 1800px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: initial;
+    display: block;
+}
+
 
 .user p {
     font-size: 16px
